@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ashishkphp/portfolio-website/static/css/main.43394c0f.chunk.css",
+    "main.js": "/ashishkphp/portfolio-website/static/js/main.5bba3edd.chunk.js",
+    "main.js.map": "/ashishkphp/portfolio-website/static/js/main.5bba3edd.chunk.js.map",
+    "runtime-main.js": "/ashishkphp/portfolio-website/static/js/runtime-main.66986792.js",
+    "runtime-main.js.map": "/ashishkphp/portfolio-website/static/js/runtime-main.66986792.js.map",
+    "static/js/2.d81dcac8.chunk.js": "/ashishkphp/portfolio-website/static/js/2.d81dcac8.chunk.js",
+    "static/js/2.d81dcac8.chunk.js.map": "/ashishkphp/portfolio-website/static/js/2.d81dcac8.chunk.js.map",
+    "static/js/3.a8f2faa3.chunk.js": "/ashishkphp/portfolio-website/static/js/3.a8f2faa3.chunk.js",
+    "static/js/3.a8f2faa3.chunk.js.map": "/ashishkphp/portfolio-website/static/js/3.a8f2faa3.chunk.js.map",
+    "index.html": "/ashishkphp/portfolio-website/index.html",
+    "precache-manifest.9ef6cf03e73ef3ab0e4fd68245487ac4.js": "/ashishkphp/portfolio-website/precache-manifest.9ef6cf03e73ef3ab0e4fd68245487ac4.js",
+    "service-worker.js": "/ashishkphp/portfolio-website/service-worker.js",
+    "static/css/main.43394c0f.chunk.css.map": "/ashishkphp/portfolio-website/static/css/main.43394c0f.chunk.css.map",
+    "static/js/2.d81dcac8.chunk.js.LICENSE.txt": "/ashishkphp/portfolio-website/static/js/2.d81dcac8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66986792.js",
+    "static/js/2.d81dcac8.chunk.js",
+    "static/css/main.43394c0f.chunk.css",
+    "static/js/main.5bba3edd.chunk.js"
+  ]
+}
