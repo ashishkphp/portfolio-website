@@ -6,6 +6,7 @@ import ToggleText from './ToggleText';
 import ToggleTheme from './ToggleTheme';
 import ProductCard from './ProductCard';
 import Stopwatch from './Stopwatch';
+import TemperatureConverter from './TemperatureConverter';
 
 const Dashboard = () => {
   return (
@@ -21,7 +22,11 @@ const Dashboard = () => {
           </tr>
         </thead>
         <tbody>
-        <tr>
+          <tr>
+            <td style={{ fontSize: '40px' }}>Temperature Converter</td>
+            <td ><TemperatureConverter /></td>
+          </tr> 
+          <tr>
             <td style={{ fontSize: '40px' }}>Stopwatch</td>
             <td ><Stopwatch /></td>
           </tr>
